@@ -1,0 +1,283 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-07-12T00:00:00Z",
+  "registryUrl": "https://raw.githubusercontent.com/praveen-hari/agent-plugin-marketplace/main/plugins.json",
+  "plugins": [
+    {
+      "id": "syncfusion-react",
+      "name": "Syncfusion React",
+      "description": "60+ React UI component skills — grids, charts, editors, schedulers, and more",
+      "author": "Syncfusion",
+      "version": "1.0.0",
+      "icon": "react.svg",
+      "repository": "https://github.com/syncfusion/react-ui-components-skills",
+      "keywords": ["react", "ui", "components", "syncfusion", "grid", "chart", "editor"],
+      "category": "syncfusion",
+      "featured": true,
+      "skillCount": 60,
+      "installSource": {
+        "type": "git",
+        "repo": "syncfusion/react-ui-components-skills"
+      }
+    },
+    {
+      "id": "syncfusion-angular",
+      "name": "Syncfusion Angular",
+      "description": "60+ Angular UI component skills — grids, charts, editors, schedulers, and more",
+      "author": "Syncfusion",
+      "version": "1.0.0",
+      "icon": "angular.svg",
+      "repository": "https://github.com/syncfusion/angular-ui-components-skills",
+      "keywords": ["angular", "ui", "components", "syncfusion", "grid", "chart", "editor"],
+      "category": "syncfusion",
+      "featured": true,
+      "skillCount": 60,
+      "installSource": {
+        "type": "git",
+        "repo": "syncfusion/angular-ui-components-skills"
+      }
+    },
+    {
+      "id": "syncfusion-blazor",
+      "name": "Syncfusion Blazor",
+      "description": "60+ Blazor UI component skills — grids, charts, editors, schedulers, and more",
+      "author": "Syncfusion",
+      "version": "1.0.0",
+      "icon": "blazor.svg",
+      "repository": "https://github.com/syncfusion/blazor-ui-components-skills",
+      "keywords": ["blazor", "dotnet", "csharp", "ui", "components", "syncfusion"],
+      "category": "syncfusion",
+      "featured": true,
+      "skillCount": 60,
+      "installSource": {
+        "type": "git",
+        "repo": "syncfusion/blazor-ui-components-skills"
+      }
+    },
+    {
+      "id": "syncfusion-vue",
+      "name": "Syncfusion Vue",
+      "description": "60+ Vue UI component skills — grids, charts, editors, schedulers, and more",
+      "author": "Syncfusion",
+      "version": "1.0.0",
+      "icon": "vue.svg",
+      "repository": "https://github.com/syncfusion/vue-ui-components-skills",
+      "keywords": ["vue", "ui", "components", "syncfusion", "grid", "chart", "editor"],
+      "category": "syncfusion",
+      "featured": false,
+      "skillCount": 60,
+      "installSource": {
+        "type": "git",
+        "repo": "syncfusion/vue-ui-components-skills"
+      }
+    },
+    {
+      "id": "syncfusion-javascript",
+      "name": "Syncfusion JavaScript",
+      "description": "60+ JavaScript UI control skills — grids, charts, editors, schedulers, and more",
+      "author": "Syncfusion",
+      "version": "1.0.0",
+      "icon": "javascript.svg",
+      "repository": "https://github.com/syncfusion/javascript-ui-controls-skills",
+      "keywords": ["javascript", "js", "ui", "components", "syncfusion"],
+      "category": "syncfusion",
+      "featured": false,
+      "skillCount": 60,
+      "installSource": {
+        "type": "git",
+        "repo": "syncfusion/javascript-ui-controls-skills"
+      }
+    },
+    {
+      "id": "syncfusion-aspnet-core",
+      "name": "Syncfusion ASP.NET Core",
+      "description": "60+ ASP.NET Core UI component skills — grids, charts, editors, and more",
+      "author": "Syncfusion",
+      "version": "1.0.0",
+      "icon": "dotnet.svg",
+      "repository": "https://github.com/syncfusion/aspnetcore-ui-components-skills",
+      "keywords": ["aspnet", "aspnetcore", "dotnet", "csharp", "ui", "components", "syncfusion"],
+      "category": "syncfusion",
+      "featured": false,
+      "skillCount": 60,
+      "installSource": {
+        "type": "git",
+        "repo": "syncfusion/aspnetcore-ui-components-skills"
+      }
+    },
+    {
+      "id": "syncfusion-dotnet-maui",
+      "name": "Syncfusion .NET MAUI",
+      "description": "50+ .NET MAUI component skills — cross-platform mobile and desktop UI",
+      "author": "Syncfusion",
+      "version": "1.0.0",
+      "icon": "maui.svg",
+      "repository": "https://github.com/syncfusion/maui-ui-components-skills",
+      "keywords": ["maui", "dotnet", "mobile", "desktop", "ui", "syncfusion"],
+      "category": "syncfusion",
+      "featured": false,
+      "skillCount": 50,
+      "installSource": {
+        "type": "git",
+        "repo": "syncfusion/maui-ui-components-skills"
+      }
+    },
+    {
+      "id": "syncfusion-wpf",
+      "name": "Syncfusion WPF",
+      "description": "60+ WPF component skills — grids, charts, docking, ribbon, and more",
+      "author": "Syncfusion",
+      "version": "1.0.0",
+      "icon": "wpf.svg",
+      "repository": "https://github.com/syncfusion/wpf-ui-components-skills",
+      "keywords": ["wpf", "dotnet", "desktop", "windows", "ui", "syncfusion"],
+      "category": "syncfusion",
+      "featured": false,
+      "skillCount": 60,
+      "installSource": {
+        "type": "git",
+        "repo": "syncfusion/wpf-ui-components-skills"
+      }
+    },
+    {
+      "id": "syncfusion-winui",
+      "name": "Syncfusion WinUI",
+      "description": "50+ WinUI component skills — modern Windows desktop UI",
+      "author": "Syncfusion",
+      "version": "1.0.0",
+      "icon": "winui.svg",
+      "repository": "https://github.com/syncfusion/winui-ui-components-skills",
+      "keywords": ["winui", "dotnet", "desktop", "windows", "ui", "syncfusion"],
+      "category": "syncfusion",
+      "featured": false,
+      "skillCount": 50,
+      "installSource": {
+        "type": "git",
+        "repo": "syncfusion/winui-ui-components-skills"
+      }
+    },
+    {
+      "id": "syncfusion-winforms",
+      "name": "Syncfusion WinForms",
+      "description": "60+ WinForms component skills — grids, charts, docking, and more",
+      "author": "Syncfusion",
+      "version": "1.0.0",
+      "icon": "winforms.svg",
+      "repository": "https://github.com/syncfusion/winforms-ui-components-skills",
+      "keywords": ["winforms", "dotnet", "desktop", "windows", "ui", "syncfusion"],
+      "category": "syncfusion",
+      "featured": false,
+      "skillCount": 60,
+      "installSource": {
+        "type": "git",
+        "repo": "syncfusion/winforms-ui-components-skills"
+      }
+    },
+    {
+      "id":"document-sdk-skills",
+      "name":"Dcoument SDK Skills",
+      "description": " Document SDK Skills are specialized instruction sets that teach AI assistants how to perform specific tasks",
+      "author":"Syncfusion",
+      "version":"1.0.0",
+      "icon":"wpf.svg",
+      "repository":"https://github.com/syncfusion/document-sdk-skills",
+      "keywords":[
+        "document","syncfusion","word","pdf","excel"
+      ],
+      "category":"syncfusion",
+      "skillCount": 12,
+      "installSource":{
+        "type":"git",
+        "repo":"syncfusion/document-sdk-skills"
+      }
+    },
+    {
+      "id": "agent-engineering-skills",
+      "name": "Agent Engineering Skills",
+      "description": "Production-grade engineering skills — spec, plan, build, test, review, ship",
+      "author": "Addy Osmani",
+      "version": "1.0.0",
+      "icon": "engineering.svg",
+      "repository": "https://github.com/addyosmani/agent-skills",
+      "keywords": [
+        "engineering",
+        "sdlc",
+        "testing",
+        "code-review",
+        "planning",
+        "security"
+      ],
+      "category": "community",
+      "featured": true,
+      "skillCount": 24,
+      "installSource": {
+        "type": "git",
+        "repo": "addyosmani/agent-skills"
+      }
+    },
+    {
+      "id": "context-engineering",
+      "name": "Context Engineering",
+      "description": "Tools for maximizing AI effectiveness through better context management",
+      "author": "GitHub",
+      "version": "1.0.0",
+      "icon": "context.svg",
+      "repository": "https://github.com/github/awesome-copilot",
+      "keywords": ["context", "productivity", "refactoring", "architecture"],
+      "category": "community",
+      "featured": false,
+      "skillCount": 3,
+      "installSource": {
+        "type": "git",
+        "repo": "github/awesome-copilot"
+      }
+    },
+    {
+      "id": "testing-automation",
+      "name": "Testing Automation",
+      "description": "Automated testing skills — unit tests, integration tests, E2E, coverage",
+      "author": "GitHub",
+      "version": "1.0.0",
+      "icon": "testing.svg",
+      "repository": "https://github.com/github/awesome-copilot",
+      "keywords": [
+        "testing",
+        "unit-test",
+        "integration",
+        "e2e",
+        "coverage",
+        "automation"
+      ],
+      "category": "community",
+      "featured": false,
+      "skillCount": 5,
+      "installSource": {
+        "type": "git",
+        "repo": "github/awesome-copilot"
+      }
+    },
+    {
+      "id": "security-best-practices",
+      "name": "Security Best Practices",
+      "description": "Security scanning, vulnerability detection, and hardening skills",
+      "author": "GitHub",
+      "version": "1.0.0",
+      "icon": "security.svg",
+      "repository": "https://github.com/github/awesome-copilot",
+      "keywords": [
+        "security",
+        "vulnerability",
+        "scanning",
+        "hardening",
+        "owasp"
+      ],
+      "category": "community",
+      "featured": false,
+      "skillCount": 4,
+      "installSource": {
+        "type": "git",
+        "repo": "github/awesome-copilot"
+      }
+    }
+  ]
+}
