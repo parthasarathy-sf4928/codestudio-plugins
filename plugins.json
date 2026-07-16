@@ -9,7 +9,7 @@
       "description": "60+ React UI component skills — grids, charts, editors, schedulers, and more",
       "author": "Syncfusion",
       "version": "1.0.0",
-      "icon": "angular.svg",
+      "icon": "react.svg",
       "repository": "https://github.com/parthasarathy-sf4928/react-ui-components-skills",
       "keywords": ["react", "ui", "components", "syncfusion", "grid", "chart", "editor"],
       "category": "syncfusion",
@@ -25,23 +25,6 @@
       "skills": [
         "./skills"
       ]
-    },
-    {
-      "id": "syncfusion-react",
-      "name": "Syncfusion React",
-      "description": "60+ React UI component skills — grids, charts, editors, schedulers, and more",
-      "author": "Syncfusion",
-      "version": "1.0.0",
-      "icon": "react.svg",
-      "repository": "https://github.com/syncfusion/react-ui-components-skills",
-      "keywords": ["react", "ui", "components", "syncfusion", "grid", "chart", "editor"],
-      "category": "syncfusion",
-      "featured": true,
-      "skillCount": 60,
-      "installSource": {
-        "type": "git",
-        "repo": "syncfusion/react-ui-components-skills"
-      }
     },
     {
       "id": "syncfusion-angular",
