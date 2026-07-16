@@ -17,7 +17,7 @@
       "skillCount": 60,
       "installSource": {
         "type": "git",
-        "repo": "syncfusion/react-ui-components-skills"
+        "repo": "parthasarathy-sf4928/react-ui-components-skills"
       },
       "agents": [
           "./agents"
